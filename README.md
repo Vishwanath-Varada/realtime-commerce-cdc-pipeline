@@ -686,8 +686,6 @@ under sustained concurrent traffic.
 
 !\[Snowflake Silver Reconciliation](./docs/images/snowflake-silver-671891-rows.png)
 
-
-
 \---
 
 
