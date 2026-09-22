@@ -660,7 +660,7 @@ under sustained concurrent traffic.
 
 
 
-!\[Locust 500 User Load Test](docs/images/locust-500-users-500k.png)
+!\[Locust 500 User Load Test](./docs/images/locust-500-users-500k.png)
 
 
 
@@ -672,7 +672,7 @@ under sustained concurrent traffic.
 
 
 
-!\[PostgreSQL Reconciliation](docs/images/postgresql-671891-rows.png)
+!\[PostgreSQL Reconciliation](./docs/images/postgresql-671891-rows.png)
 
 
 
@@ -684,7 +684,7 @@ under sustained concurrent traffic.
 
 
 
-!\[Snowflake Silver Reconciliation](docs/images/snowflake-silver-671891-rows.png)
+!\[Snowflake Silver Reconciliation](./docs/images/snowflake-silver-671891-rows.png)
 
 
 
