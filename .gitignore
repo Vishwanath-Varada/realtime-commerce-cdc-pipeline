@@ -32,4 +32,4 @@ Thumbs.db
 # Downloaded connector binaries
 plugins/
 
-!.env.example
+.env.example
