@@ -1,0 +1,35 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Credentials / secrets
+*.p8
+*.pem
+snowflake_key*
+private_key*
+
+# Connector configs that may contain credentials
+postgres-connector.json
+snowflake-connector.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Downloaded connector binaries
+plugins/
+
+!.env.example
